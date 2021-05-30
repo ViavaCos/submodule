@@ -1,0 +1,12 @@
+.test-button {
+  width: 70px;
+  height: 32px;
+  line-height: 32px;
+  color: #666;
+  text-align: center;
+  background-color: red;
+  border: 1px solid #ccc;
+}
+.test-button:active {
+  background-color: rgba(0, 0, 0, 0.1);
+}
